@@ -12,4 +12,4 @@ CSS: I consolidated classes with identical code to clean up the prexisitng CSS t
 
 ![Screenshot of Project](image.png)
 
-Website URL: http://horiseon.johnhazukajr.gitub.io/
+Website URL:  https://johnhazukajr.github.io/Horiseon-Website-Challenge-1/
